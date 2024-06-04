@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: rgb(177, 175, 175);s */
+}
+#logo{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:2rem; 
+}
+.navbar{
+    height: 65px;
+    padding: 20px;  
+    background:transparent;
+    z-index: 99999;
+}
+#nav  {
+    z-index: 99999;
+ }
+.dropdown-menu{
+    background: transparent !important;
+}
+.nav-button{
+    background: transparent !important;
+}
+.navbar a {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+@media only screen and (max-width: 600px) {
+    nav{
+        padding: 0px;
+        /* height: 70px !important; */
+    }
+   
+}
+
