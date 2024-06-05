@@ -3,6 +3,9 @@
     padding: 0px;
     /* background-color: rgb(177, 175, 175);s */
 }
+html{
+    scroll-behaviour:smooth;
+}
 #logo{
     font-family:'Times New Roman', Times, serif;
     font-weight: bold;
