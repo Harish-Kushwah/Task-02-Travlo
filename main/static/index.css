@@ -103,3 +103,15 @@
     font-weight: bold;
     
 }
+.mybtn {
+    background-color: #666666 ;
+    padding:15px;
+    color: yellowgreen;
+}
+.mycard {
+   margin: 10px !important;
+
+}
+.card-img-overlay {
+    overflow: auto !important;
+}
