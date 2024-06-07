@@ -109,7 +109,8 @@
     color: yellowgreen;
 }
 .mycard {
-   margin: 10px !important;
+   margin: 10px 0px !important;
+   border: 0px !important;
 
 }
 .card-img-overlay {
